@@ -10,16 +10,8 @@
 
 
 
-<h4>Project contributors :</h4>
-
- * [ MITHUN S](https://github.com/ST-MITHUN) <br/>
+<h4>Project contributor
  * [ANIRUDHAN M ](https://github.com/Anirudh117)    <br/>
- 
-
-<h4> Project advisor :</h4>
-
- * [Dr. Briskilal Joe](https://www.google) <br/>
-
  
 # Introduction
 
